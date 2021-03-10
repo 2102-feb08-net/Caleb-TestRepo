@@ -6,7 +6,7 @@ namespace GitMergePractice
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("NOT HELLO WORLD!");
+            Console.WriteLine("But I like Hello World...");
         }
     }
 }
